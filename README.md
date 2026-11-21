@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor’s in Computer Applications from Agrawan Heritage University, Agra  <br>- 💻 Passionate about **Web Development** (HTML, CSS, JavaScript, Node.js, Express, MongoDB)  <br>- 🐍 Currently completing a **30‑day Python challenge** to strengthen beginner‑to‑pro concepts  <br>- 🎨 Strong eye for **UI/UX design, color schemes, and branding**  <br>- 🚀 Goal: Transition into **Data Science** by combining web development and Python skills  <br>- ⚡ Fun fact: I love cricket (RCB fan!) and enjoy blending creativity with coding  
+Bachelor’s in Computer Applications from Agrawan Heritage University, Agra  <br>- 💻 Passionate about **Web Development**   
 
 
 ## 🌐 Socials:
